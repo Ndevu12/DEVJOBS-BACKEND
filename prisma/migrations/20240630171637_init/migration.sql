@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Job" ALTER COLUMN "requirements" SET DATA TYPE TEXT,
+ALTER COLUMN "role" SET DATA TYPE TEXT;
